@@ -1,1 +1,7 @@
-/*# sourceMappingURL=style.css.map */
+body p:first-child {
+  background-color: lightgreen;
+}
+body p:nth-child(2) {
+  background-color: red;
+  color: white;
+}/*# sourceMappingURL=style.css.map */

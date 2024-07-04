@@ -1,0 +1,11 @@
+body{
+    p{
+        &:first-child{
+            background-color:lightgreen;
+        }
+        &:nth-child(2){
+            background-color:red;
+            color: white;
+        }
+    }
+}
