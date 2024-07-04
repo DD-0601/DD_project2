@@ -1,16 +1,10 @@
 body{
     h1{
-        color: white;
-        background-color: tomato;
+        background-color: darkcyan;
 
     }
     p{
-        &:first-child{
-            background-color:lightgreen;
-        }
-        &:nth-child(2){
-            background-color:red;
-            color: white;
-        }
+        color: red;
+        background-color: #fff;
     }
 }
